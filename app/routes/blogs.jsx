@@ -48,7 +48,7 @@ const Blogs = () => {
             <div className="flex justify-center mb-10">
                 <div className="w-3/4">
 
-                    <img src="https://s3-alpha-sig.figma.com/img/b535/af6c/1b362a3bca07554928d933d831f01e53?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=IwbC2XR~EusGUCannNlETz~ApZCsieYwf-l0iPZINj3QVDUHJrFDLxQ2PSIUCSVxd63wuAghgVtYcm4O7I9VZNFHx3sOfpHF4BiuP0Gk0g9Gj-L5D1~-g~errtgSUb0k5SyIZF2ldh8DLefLkXpEWe7c4YuNRu1c0vtZ2q9yyhCmKRmAuZZ0u23jP9pwTaXAMHSsoNej49Ww07BY22zVOO~HSxdLtmoGnMAO4bPczY4zNvSdmMgJEpNl2gmol2Fq5x~ZVKOpYf276VyzSeeUDhmTSjxoF18JDINi5qyJVgzxx84c80bfWg57QbhwpEeGTOZCeU18RZ6lwCC7AUE0IA__" alt="" className='md:h-[380px] lg:h-[450px] xl:h-[570px] 2xl:h-[700px] w-full object-cover' />
+                    <img src="https://images.pexels.com/photos/2284604/pexels-photo-2284604.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" className='md:h-[380px] lg:h-[450px] xl:h-[570px] 2xl:h-[700px] w-full object-cover' />
 
                 </div>
             </div>
@@ -73,8 +73,8 @@ const Blogs = () => {
                             </p>
 
                             <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
-                                <img src="https://s3-alpha-sig.figma.com/img/2ebd/a889/8e41213697f0a49bb058614cd8350935?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=scEOJS01D2NMjsF-5xfPwvI1eS0zdctPOFlNLjD2ByhBtmTqQtYTCDquO6rwInooB4lmzPVnXl~61Xo5l0X0oVvotl1SKoh5W9AxpPZIQpbNknwBNJrQMfVYL-ehwfJvp5MZ1Sisi9~F1W2~Cc6-cIzGyUzB8lCZlPu7Cnuc-TYs0Vp5Fkzx12b1N9v3pv~7huPB-Eqgq4NguBxwH3aVHaSDls7APK2xSljpCu5Az0pPxjIZsEgROEaRgtHHXQpm2m3yySOxIeJvRTJXl3~wirR7c1zhCKFIbKMd6Tx80FQMGdTlftc2UuF0i2GOGb3Q8RTYkXFqdsLc7z0LybAcBw__" alt="Cooking" class="" />
-                                <img src="https://s3-alpha-sig.figma.com/img/2ebd/a889/8e41213697f0a49bb058614cd8350935?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=scEOJS01D2NMjsF-5xfPwvI1eS0zdctPOFlNLjD2ByhBtmTqQtYTCDquO6rwInooB4lmzPVnXl~61Xo5l0X0oVvotl1SKoh5W9AxpPZIQpbNknwBNJrQMfVYL-ehwfJvp5MZ1Sisi9~F1W2~Cc6-cIzGyUzB8lCZlPu7Cnuc-TYs0Vp5Fkzx12b1N9v3pv~7huPB-Eqgq4NguBxwH3aVHaSDls7APK2xSljpCu5Az0pPxjIZsEgROEaRgtHHXQpm2m3yySOxIeJvRTJXl3~wirR7c1zhCKFIbKMd6Tx80FQMGdTlftc2UuF0i2GOGb3Q8RTYkXFqdsLc7z0LybAcBw__" alt="Cooking" class="" />
+                                <img src="https://images.pexels.com/photos/3296280/pexels-photo-3296280.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Cooking" class="" />
+                                <img src="https://images.pexels.com/photos/1587830/pexels-photo-1587830.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Cooking" class="" />
                             </div>
 
                             <h2 class="mt-10 text-2xl font-bold tracking-wide font-cinzel">MASTER THE ART OF COOKING</h2>
@@ -91,7 +91,7 @@ const Blogs = () => {
                             <div class="mt-10 border-t border-[#C1994D] border-b pt-6 flex flex-col lg:flex-row items-center mb-10">
                                 <div className="flex">
                                     <div class="md:w-1/4 flex-shrink-0 ">
-                                        <img src="https://s3-alpha-sig.figma.com/img/5962/029f/e5cc5b0ad45b2c4b4a7698c633e1f68c?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=DZBQtoFGVR81yv-L4aYHdP1ZLZpGPyNX4gFTuVOmKRxbW1Y911xvSOr~fUAxpojK9LZNbxFmzOBKPh~TLA5raRXOjvGvjMekTHJRBfkNoRo9s1fAkFbvomTw4LTR5w8LY6-~x5YiyZQRLWYueYUR-lur1FM5jVbsh8U~iDoMdDN75QNDEYRFvLaDEhHLm9zZvXLnfwVpMUMet9ZCvPHf7QzufhYSTpIy2J-6nT-3ZHVJM4ZELWTeVQo8CxPqkcVkXVtYG8bA58EVSfzBH3BXNQnZ0dNa5hozHB2Yhdr2vKVvUPoUf~sLiF2ze9i2yx942wivjbv1rGcqKudteWQ-7g__" alt="Author" class="w-20 h-20 " />
+                                        <img src="https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Author" class="w-20 h-20 " />
                                     </div>
                                     <div className="ml-2">
                                         <h3 class="uppercase text-[#8B2323] font-bold tracking-wide text-lg">MD. TARIF AL-MOZAHED</h3>
@@ -197,7 +197,7 @@ const Blogs = () => {
                         <div className="max-w-sm">
                             <div className="relative shadow-custom ">
                                 <img
-                                    src="https://s3-alpha-sig.figma.com/img/b535/af6c/1b362a3bca07554928d933d831f01e53?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KyibBZdQj2Icvcc2tf~FPxQoRRsmziAIK5BRFAPHh1Sny94mVTDd3cj9X9dtZHPtQGAdEdkQ70TDf2byMt3Y-V-e~Le6~Z9jWfnArlFpPjGGS~o2Fc5hkJM5GpGqO14X-ES2GUDmRyB~HDrthxQJeRTDnyxnlby4rrin9S5Qt7ZLFgJ9-~YKN~XPPKNYWCZPM9Vl-FdwjimNAXzHPPSSkxrLxnO5syP5h4bx4AjvWmG6n292BkL-frYav~-w9v-MjK3cjb5cBBkaTseb3BukSXgGuxfQn6J6aa2m71xv-xzePZPv1u7k3NhG9ennmivEv6Lmf9IWjDbh8FMfeSAFUw__"
+                                    src="https://images.pexels.com/photos/31249593/pexels-photo-31249593/free-photo-of-cozy-indoor-restaurant-with-diners-at-night.jpeg?auto=compress&cs=tinysrgb&w=600"
                                     alt="Culinary Excellence"
                                     className="w-full h-[350px] object-cover"
                                 />
@@ -222,7 +222,7 @@ const Blogs = () => {
                         <div className="max-w-sm ">
                             <div className="relative">
                                 <img
-                                    src="https://s3-alpha-sig.figma.com/img/f138/2203/feac38bae0deba4138f08a1e4d1db645?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=hJBXUT0NJ9x-3-fJCw166JXsJ61-CJOgN0F0b9QveANw6XUIAEm2WaYU~sCdrSJ~9-DTtQUwQhW-WKuSeK94eFcVh-o8qIU0kGohJW2M8RKyJYYIv74jLDMvC-BKeyrt8n7-eIF0r2tAde6sKNMc46QG-LFULc1JMa1Ps5DTjGO4aQkOCb7sU2XsqYJS7ndhqJ60-CdZ-5FmSilSx~sBRGwZoeOHPOvnOeUSVh6Gs9QxwfwK8LkdNPuIeP-zOFxtMGdALLtBHXtltPHKyLicNmwpKsjBWPuN5ZSJH3VCRxr9nqWLkZlhK~pHQ-PGz0c22T3B8~FRdQUxqSm1Rv9acA__"
+                                    src="https://images.pexels.com/photos/7505570/pexels-photo-7505570.jpeg?auto=compress&cs=tinysrgb&w=600"
                                     alt="Culinary Excellence"
                                     className="w-full h-[350px] object-cover shadow-custom"
                                 />
@@ -247,7 +247,7 @@ const Blogs = () => {
                         <div className="max-w-sm ">
                             <div className="relative">
                                 <img
-                                    src="https://s3-alpha-sig.figma.com/img/f138/2203/feac38bae0deba4138f08a1e4d1db645?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=hJBXUT0NJ9x-3-fJCw166JXsJ61-CJOgN0F0b9QveANw6XUIAEm2WaYU~sCdrSJ~9-DTtQUwQhW-WKuSeK94eFcVh-o8qIU0kGohJW2M8RKyJYYIv74jLDMvC-BKeyrt8n7-eIF0r2tAde6sKNMc46QG-LFULc1JMa1Ps5DTjGO4aQkOCb7sU2XsqYJS7ndhqJ60-CdZ-5FmSilSx~sBRGwZoeOHPOvnOeUSVh6Gs9QxwfwK8LkdNPuIeP-zOFxtMGdALLtBHXtltPHKyLicNmwpKsjBWPuN5ZSJH3VCRxr9nqWLkZlhK~pHQ-PGz0c22T3B8~FRdQUxqSm1Rv9acA__"
+                                    src="https://images.pexels.com/photos/27677944/pexels-photo-27677944/free-photo-of-woman-in-dress-sitting-and-reading-magazine.jpeg?auto=compress&cs=tinysrgb&w=600"
                                     alt="Culinary Excellence"
                                     className="w-full h-[350px] object-cover shadow-custom"
                                 />

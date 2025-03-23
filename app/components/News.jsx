@@ -21,7 +21,7 @@ const News = () => {
                     <div className="max-w-sm">
                         <div className="relative shadow-custom ">
                             <img
-                                src="https://s3-alpha-sig.figma.com/img/b535/af6c/1b362a3bca07554928d933d831f01e53?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KyibBZdQj2Icvcc2tf~FPxQoRRsmziAIK5BRFAPHh1Sny94mVTDd3cj9X9dtZHPtQGAdEdkQ70TDf2byMt3Y-V-e~Le6~Z9jWfnArlFpPjGGS~o2Fc5hkJM5GpGqO14X-ES2GUDmRyB~HDrthxQJeRTDnyxnlby4rrin9S5Qt7ZLFgJ9-~YKN~XPPKNYWCZPM9Vl-FdwjimNAXzHPPSSkxrLxnO5syP5h4bx4AjvWmG6n292BkL-frYav~-w9v-MjK3cjb5cBBkaTseb3BukSXgGuxfQn6J6aa2m71xv-xzePZPv1u7k3NhG9ennmivEv6Lmf9IWjDbh8FMfeSAFUw__"
+                                src="https://images.pexels.com/photos/7505570/pexels-photo-7505570.jpeg?auto=compress&cs=tinysrgb&w=600"
                                 alt="Culinary Excellence"
                                 className="w-full h-[350px] object-cover"
                             />
@@ -46,7 +46,7 @@ const News = () => {
                     <div className="max-w-sm ">
                         <div className="relative">
                             <img
-                                src="https://s3-alpha-sig.figma.com/img/f138/2203/feac38bae0deba4138f08a1e4d1db645?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=hJBXUT0NJ9x-3-fJCw166JXsJ61-CJOgN0F0b9QveANw6XUIAEm2WaYU~sCdrSJ~9-DTtQUwQhW-WKuSeK94eFcVh-o8qIU0kGohJW2M8RKyJYYIv74jLDMvC-BKeyrt8n7-eIF0r2tAde6sKNMc46QG-LFULc1JMa1Ps5DTjGO4aQkOCb7sU2XsqYJS7ndhqJ60-CdZ-5FmSilSx~sBRGwZoeOHPOvnOeUSVh6Gs9QxwfwK8LkdNPuIeP-zOFxtMGdALLtBHXtltPHKyLicNmwpKsjBWPuN5ZSJH3VCRxr9nqWLkZlhK~pHQ-PGz0c22T3B8~FRdQUxqSm1Rv9acA__"
+                                src="https://images.pexels.com/photos/27677944/pexels-photo-27677944/free-photo-of-woman-in-dress-sitting-and-reading-magazine.jpeg?auto=compress&cs=tinysrgb&w=600"
                                 alt="Culinary Excellence"
                                 className="w-full h-[350px] object-cover shadow-custom"
                             />

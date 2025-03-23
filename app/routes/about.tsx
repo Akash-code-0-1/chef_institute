@@ -51,7 +51,7 @@ const about = () => {
               {/* Image Section */}
               <div className="relative h-[300px] lg:h-full min-h-[300px]">
                 <img
-                  src="https://s3-alpha-sig.figma.com/img/324b/5585/3b503157087155b5437c9e0d3850e793?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=NtNliyXhqRc07fQPM2iOV32ywa7BX3nJ~omSAsNzLZBtMoFgzNcNBNSrQ7SwZBF7OSEwHjCrvS1rSNjYuy7z5UARCk~26jiVCcJkv7l5ioqURq-gARJGIWy-xH80ggisOaIFPJQQ0oY2SlNiTmvsQjyzv4pfHUahDzJJ2IN0ULoph22NvlAzZmrlqF3O8kKE9co6DedJ5J4tVBAcpMI0DIyB~YGvsXWrm~KKd0Dl6WBxr~yLqq96F~-viLmsV4ZvBoVzjpR4K6dA10pOcv1N1PkK7RgcLxlbq2N~Y0yfmhwkdnhFQgJwBAVYE07oPnaeiFjVyjjB2qc6PVDhGw~TAA__"
+                  src="https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg?auto=compress&cs=tinysrgb&w=600"
                   alt="Chef preparing food"
                   className="w-full h-full xl:h-[600px] object-cover"
                 />
@@ -135,22 +135,22 @@ const about = () => {
                 <div className="flex space-x-4 mt-4">
                   {/* Placeholder for Accreditation Logos */}
                   <div className="w-24 h-24 flex justify-center items-center">
-                    <img src="https://s3-alpha-sig.figma.com/img/ef46/e58c/8ed4ef0eba46b18edb9b9d230e3f0c19?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=IKgxn7zWk~1UHfe7eZqG8~QI1ABy8IJXd9go9016PP7CBg22typpBuMc1RkBSiPbpF-ebBYhClJm~U9p9HFLxYUb7Pkpgs3QkICtBEZCyPJ1CV~l5A3JnMalYngBF13IQXsCk4Sju-oMopdtNUyhigCYmXyDxKK~g4pn0VQcwvCw0LE0gXS3GX3j32HdF3bMk~3b2~9RfqAa0ENmz-qxWK6MaW59dvZwx1ieb6jYu0pePuaVh88T5cWGDC4AuORIofhCPxkU1BdHqcxp6rAb6UB3dwGWpTZXhcBHdl8aCqMZsqk0Ed9iXDiXfKsjSmYh9xoHVsS3WF-~~g19CRqvrA__" alt="" className="w-20 h-20  object-cover"/>
+                    <img src="https://images.pexels.com/photos/8363728/pexels-photo-8363728.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" className="w-20 h-20  object-cover"/>
 
                   </div>
 
                   <div className="w-24 h-24 flex justify-center items-center">
-                    <img src="https://s3-alpha-sig.figma.com/img/ea62/e10f/a305d64bf164a94091330d239c19c795?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=b6MCoM6vPIKrln6OvOYZSaTce07Adgo8J2eloz8aa9whx3xe0oi7ICV6QuQ9~NE4i2JjnOC3brZToGKWC8CJLr-E7SSgaC6X~dzZcFSBC-WdSe1Z5a997OoANlI2Xdc3D1lMuCVxBoxJk5VBpf7njBe-6ecffd-Y~MKervIkczFUA4kFbijZ48dL78r38uGW2j4E6whMjxyET--zAzE0rwgF3CciUKkn-sNURFZX3gK2YPx8rFLhSj~skKnKShfhEeEsKh5QGxBsbsZ0OxocT7xhbv3M3gO1jTUwiAh42xwE54OBeEVSUBUIqGsxQjP1TjSS65hDzmPLz8TT-L7ntw__" alt="" className="w-20 h-20  object-cover"/>
+                    <img src="https://images.pexels.com/photos/7005236/pexels-photo-7005236.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" className="w-20 h-20  object-cover"/>
 
                   </div>
 
                   <div className="w-24 h-24 flex justify-center items-center">
-                    <img src="https://s3-alpha-sig.figma.com/img/7872/664f/49641d9bd0029c2a716dd000d86d578f?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=PsvvxD8yMv19be98XOFz18r93SHL~yo4Nf987iFDLiQ3LxPmVnXaUDhW9hl4DztFvRelmUQHmkFDfxzH62P5ErxSjK5QIeWPn5TdpF~ayveybW6wTveg-3iSHLgE~9DjD3TE8QJWJDavMUHrei7Ew2c7vbJLvaqiGMxZIfRqWhe~yLZ2uzcGKDj6oZVfQcIM3Ko3-ycqIqWwndvOGGB6~ce5U0inwAZsE9lsbjNV229QeZTkrDpkhq0Cn3p4MixmiiKVhOp9X2Hps8b3gv~xLXsGp0sKJFNsKzNlm5pW1-gW7~vO5ALi0ZHxwegHvYUaV3VPTDc99vFS3J-ivcxxHg__" alt="" className="w-20 h-20  object-cover"/>
+                    <img src="https://images.pexels.com/photos/6250930/pexels-photo-6250930.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" className="w-20 h-20  object-cover"/>
 
                   </div>
                   
                   <div className="w-24 h-24 flex justify-center items-center">
-                    <img src="https://s3-alpha-sig.figma.com/img/55eb/215d/9fc88d5411713ebd80c4407bdf8c9b84?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=dSuXfMTW-W~8-15DWCJf1LzEkVlryo~p1hBQslosLP1HC3q--PafHuKH1TTSkS3IIr-E23y8gJnMwWgtpOzHH318Gp-XBrH89BcIbXoMAV4XueqXaQS0coOd8n4ELU-R5GRnkbMGScfZ~TRTks~JyJd~z50H4OXg-SaApfNA31ypC7BPpffkYahzYn2Lgrd6Wl2wYc-GI1bgWnM0kZmYW8yJ~yWC0KZu65~c-ZGTXm013rHmy1EQWNd68t8jLDPVIsBax1jl5bn7DvsCHAVhxarpxt1JJEkbOFTQz0Q66vzYZiBozgvKUNWpwXRGzV0XpT8JpPNIuGn~UjJSXtqOtg__" alt="" className="w-20 h-20  object-cover"/>
+                    <img src="https://images.pexels.com/photos/2292837/pexels-photo-2292837.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" className="w-20 h-20  object-cover"/>
 
                   </div>
 
@@ -161,7 +161,7 @@ const about = () => {
             {/* Image Section */}
             <div className='order-1 lg:order-2'>
               <img
-                src="https://s3-alpha-sig.figma.com/img/9cb1/ec20/463841beff1ee02e193c4cb506fb0ef4?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=lB5rb8pSxx1ML~1DtHDoz9TOkuSi-UzNfTQZIBz7LDt3VjmuKLi1KGNVz2~-rTYVuIeequJw0lDzwQuCe35dbwz74fK8ornFJym4~N4YQEL97h0NGVObXvB2rGzIBJWWIh3qvh8yqOgvxh-tPQjjT8IGN~st76HnLRwVnFBOkYmW45mdbZ7LpXCA7OBpMLXV6AyMONiOOoAspPo6WARnIUTWeXaEgrU4zgTUUtnmJvUTyMTT9aoOcMqIP-5luYAFdmiA39Xr8CPwydG6uj~LvCaKFV4n~FfKIvk0NDvu1XL5zyvBDCWhbHGUJh-7svYOdToqDnKQYxyyKP1pRx2GRA__"
+                src="https://images.pexels.com/photos/2253643/pexels-photo-2253643.jpeg?auto=compress&cs=tinysrgb&w=600"
                 alt="Culinary Community"
                 className="h-[500px]  w-full object-cover"
               />

@@ -16,7 +16,7 @@ const Testimonials = () => {
                                 CHEFACA ALUMNI TESTIM<span
                                     className="inline-block relative w-[35px] h-[35px] rounded-full bg-cover bg-center mx-1 align-middle bottom-1"
                                     style={{
-                                        backgroundImage: "url('https://s3-alpha-sig.figma.com/img/75c3/507d/591f46389cd49f338e4ac7b451c3def2?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=sQgbdJ-vb~8Odbp8HFYbBOdKzz1MXk2~lcKQyU3UeWASSvE3W0z9X95fnjuP4MFpMS2QJwz~LtAHJ7pD686QGqR1XpSVn7dnf7KPoTElQ8siVAaaqORKFm4cb51WOmxojOZajv2Q3rzVWYbSIN8MYQ08Td2vyZryQmLbzKjdwYJsbGiSFOIhjX3OSqwHy6uGo66z1qm5il7fgLtWPRtjUT0tHqUtJ4j4O3oE-SWrKis9lOk5w1dm26QPYErPFnyPp5CxOm2v8dzGxNWWEXAvDjboPLs92LMe1gQZWgybL7qsYRFrl87W2YB~k8tHCGaMeZvyAfezQCTU-zZfSXuy5w__')",
+                                        backgroundImage: "url('https://images.pexels.com/photos/1132047/pexels-photo-1132047.jpeg?auto=compress&cs=tinysrgb&w=600')",
                                         verticalAlign: "middle"
                                     }}>
                                 </span>NIALS
@@ -59,7 +59,7 @@ const Testimonials = () => {
                                 Thanks to Chefaca, I've transformed my love for cooking into a career. The experience was both challenging and rewarding.
                             </p>
                             <div className=" flex mt-5">
-                                <img src="https://s3-alpha-sig.figma.com/img/5176/16f6/1d6ef571b8cccb5ecd3191f46f1b1eb9?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=c~KzEkpEHlt3j27rImesBmWtUS7hmIMFiZedkGNiwbBXj2~xSGXluHLYn6pkPVP8zyszAl78z6QFv2sPgWL-xz5RRy2O2c~lohc~eqkwqk2zVm4OJpBdOB4nEPZuJHGV0~64CDXUx4vaiRTQp9-0DDsRF2cQUP0Eh3E24vxovdVaG6tvOkyuzfXNoqEcPuXUie86Apt~Gz61r54eVDx6tfNfnJsfiKH8R9~QOY3qs7JkqH3OptNQ1k-C48tnBz-w8dmg3FKUkz2jsSX2j00U-4Yyow~c3QqaKHu0sVbmO6Qvz4LaYM5KQ6ZcgtAsKHclS-8ELcq8iOyLGX-29P5bbA__" alt="" className='h-[50px]' />
+                                <img src="https://images.pexels.com/photos/1906157/pexels-photo-1906157.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" className='h-[50px]' />
                                 <div className=" ml-2">
                                     <h2 className='text-transparent bg-clip-text bg-gradient-to-b from-[#993128] to-[#33100D] font-cinzel font-semibold'>TARIQ AL-MOHAMMED</h2>
                                     <p className='text-[#747678]'>Aspiring Chef</p>
@@ -77,7 +77,7 @@ const Testimonials = () => {
                                 Thanks to Chefaca, I've transformed my love for cooking into a career. The experience was both challenging and rewarding.
                             </p>
                             <div className=" flex mt-5">
-                                <img src="https://s3-alpha-sig.figma.com/img/5176/16f6/1d6ef571b8cccb5ecd3191f46f1b1eb9?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=c~KzEkpEHlt3j27rImesBmWtUS7hmIMFiZedkGNiwbBXj2~xSGXluHLYn6pkPVP8zyszAl78z6QFv2sPgWL-xz5RRy2O2c~lohc~eqkwqk2zVm4OJpBdOB4nEPZuJHGV0~64CDXUx4vaiRTQp9-0DDsRF2cQUP0Eh3E24vxovdVaG6tvOkyuzfXNoqEcPuXUie86Apt~Gz61r54eVDx6tfNfnJsfiKH8R9~QOY3qs7JkqH3OptNQ1k-C48tnBz-w8dmg3FKUkz2jsSX2j00U-4Yyow~c3QqaKHu0sVbmO6Qvz4LaYM5KQ6ZcgtAsKHclS-8ELcq8iOyLGX-29P5bbA__" alt="" className='h-[50px]' />
+                                <img src="https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" className='h-[50px]' />
                                 <div className=" ml-2">
                                     <h2 className='text-transparent bg-clip-text bg-gradient-to-b from-[#993128] to-[#33100D] font-cinzel font-semibold'>TARIQ AL-MOHAMMED</h2>
                                     <p className='text-[#747678]'>Aspiring Chef</p>
@@ -95,7 +95,7 @@ const Testimonials = () => {
                                 Thanks to Chefaca, I've transformed my love for cooking into a career. The experience was both challenging and rewarding.
                             </p>
                             <div className=" flex mt-5">
-                                <img src="https://s3-alpha-sig.figma.com/img/5176/16f6/1d6ef571b8cccb5ecd3191f46f1b1eb9?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=c~KzEkpEHlt3j27rImesBmWtUS7hmIMFiZedkGNiwbBXj2~xSGXluHLYn6pkPVP8zyszAl78z6QFv2sPgWL-xz5RRy2O2c~lohc~eqkwqk2zVm4OJpBdOB4nEPZuJHGV0~64CDXUx4vaiRTQp9-0DDsRF2cQUP0Eh3E24vxovdVaG6tvOkyuzfXNoqEcPuXUie86Apt~Gz61r54eVDx6tfNfnJsfiKH8R9~QOY3qs7JkqH3OptNQ1k-C48tnBz-w8dmg3FKUkz2jsSX2j00U-4Yyow~c3QqaKHu0sVbmO6Qvz4LaYM5KQ6ZcgtAsKHclS-8ELcq8iOyLGX-29P5bbA__" alt="" className='h-[50px]' />
+                                <img src="https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" className='h-[50px]' />
                                 <div className=" ml-2">
                                     <h2 className='text-transparent bg-clip-text bg-gradient-to-b from-[#993128] to-[#33100D] font-cinzel font-semibold'>TARIQ AL-MOHAMMED</h2>
                                     <p className='text-[#747678]'>Aspiring Chef</p>

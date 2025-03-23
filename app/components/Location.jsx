@@ -17,7 +17,7 @@ const Location = () => {
                         <h1 className="text-[35px] mb-10 font-cinzel text-transparent bg-clip-text bg-gradient-to-b from-[#993128] to-[#33100D]">EXPLORE OUR ACADEMY L<span
                             className="inline-block relative w-[35px] h-[35px] rounded-full bg-cover bg-center mx-1 align-middle bottom-1"
                             style={{
-                                backgroundImage: "url('https://s3-alpha-sig.figma.com/img/75c3/507d/591f46389cd49f338e4ac7b451c3def2?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=sQgbdJ-vb~8Odbp8HFYbBOdKzz1MXk2~lcKQyU3UeWASSvE3W0z9X95fnjuP4MFpMS2QJwz~LtAHJ7pD686QGqR1XpSVn7dnf7KPoTElQ8siVAaaqORKFm4cb51WOmxojOZajv2Q3rzVWYbSIN8MYQ08Td2vyZryQmLbzKjdwYJsbGiSFOIhjX3OSqwHy6uGo66z1qm5il7fgLtWPRtjUT0tHqUtJ4j4O3oE-SWrKis9lOk5w1dm26QPYErPFnyPp5CxOm2v8dzGxNWWEXAvDjboPLs92LMe1gQZWgybL7qsYRFrl87W2YB~k8tHCGaMeZvyAfezQCTU-zZfSXuy5w__')",
+                                backgroundImage: "url('https://images.pexels.com/photos/1132047/pexels-photo-1132047.jpeg?auto=compress&cs=tinysrgb&w=600')",
                                 verticalAlign: "middle"
                             }}>
                         </span>CATIONS</h1>
@@ -118,7 +118,7 @@ const Location = () => {
                                 21/A, Road - 2, Block A, Aftab Nagar (Beside East West University), Merul Badda, Dhaka, Bangladesh, 1212
                             </p>
 
-                            <img src="https://s3-alpha-sig.figma.com/img/076b/a4d1/50c2ee7faa94afb4ddce9b1997a15c0f?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dQF9PW5r4va6fDXCn1Ven2eSYpU~t7qMIopaUkI0zJqUMZ0a4Li5-BcOItT7biuUSOMsvTShG29xgVfWCfb2~jPmNg9p9QsU7~e1SWHZ4x2NI0VOcyULc8CIPjXRcHhGClFy9aak8Kll8BtkQKBwkeJPb3JITPKIG4SITaYwPapRCW1F7eqkYoSIqcZfKvny9t5OAPde9OQb2cySPQ56elXWxa7usSTIBWPM4XfF68ItHMkEbIBVpSGhgg4Nkc2K1~q74PyO3E4a8a3OrxRRrdWFObHn-Dg9jI7HaJECUfbLm6O8z1bumX09atTHX2-R4s3cP1zjt53duhUvjsytGg__" alt="" className='mt-2' />
+                            <img src="https://images.pexels.com/photos/3171128/pexels-photo-3171128.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" className='mt-2' />
 
                             <div className="flex justify-center items-center w-full ">
                                 <button className="bg-gradient-to-r absolute  flex from-[#993128] to-[#33100D] text-white px-8 py-2 uppercase text-sm font-medium hover:bg-[#8B2323]/90 transition-colors">
@@ -226,7 +226,7 @@ const Location = () => {
                                 21/A, Road - 2, Block A, Aftab Nagar (Beside East West University), Merul Badda, Dhaka, Bangladesh, 1212
                             </p>
 
-                            <img src="https://s3-alpha-sig.figma.com/img/fcbc/3d10/80a54e7cf9b70fa1835bbd9de732b081?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gv8Qxo3omlEcN1rniMut6dUUyMQI9h2YIjcZ-poINue5XohlRGpqa3UObJ3sfloajKEN-JX4RF~0NVSZr6gxSKZfxqLNxT2pxMSFiIyDl9t9S9eZoqoOdGf7pptx1luznbmP9jEsfweSFn5P16rLln~n1~Ek861b-wYUF5RdgZxF4BmGz0Q57177dqnmV54LtW172B~CNtgx6P5Oi10AxM-3-h3syDZ--lOYpnGFPn7gLsXz4osnWvhCLrzW72nZJxUext0Tvm6hunPJFCcHihZEWZsU2teFlHpC-edQbZ0w3X--1vUFQ5uVlpoq5gpynjo6OJRCDoOoEN08pbxpsw__" alt="" className='mt-2' />
+                            <img src="https://images.pexels.com/photos/3171160/pexels-photo-3171160.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" className='mt-2' />
 
                             <div className="flex justify-center items-center w-full ">
                                 <button className="bg-gradient-to-r absolute  flex from-[#993128] to-[#33100D] text-white px-8 py-2 uppercase text-sm font-medium hover:bg-[#8B2323]/90 transition-colors">

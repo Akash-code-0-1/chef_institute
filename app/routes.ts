@@ -12,8 +12,8 @@ export default [
     route("programs", "./routes/programs.jsx"), // Program Page
     route("faculty", "./routes/faculty.jsx"), // Our Faculty Page
     route("blogs", "./routes/blogs.jsx"), // Blogs Page
-    //     route("contact", "./routes/contact.tsx"), // Contact Page
-    //     route("verify-certificate", "./routes/verifyCertificate.tsx"), // Verify Certificate Page
+    route("contact", "./routes/contact.tsx"), // Contact Page
+    route("verify-certificate", "./routes/verifyCertificate.tsx"), // Verify Certificate Page
   ]),
 ] satisfies RouteConfig;
 

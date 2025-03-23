@@ -59,7 +59,7 @@ const Programs = () => {
 
                     <div className="image w-2/2">
                         <img
-                            src="https://s3-alpha-sig.figma.com/img/bd4a/1c00/bb2764cd64438fd0b1234f6bf4edd9a5?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oKbnCc~KErqscvU9HJ5dA4mFza1HHzlxfxx-~U~h1fdENv3EFYq1E4gHp4wsZu3HzZpsD-BzkWjTrQdKjCPCtYYdY9hjgWSqfyBYGYrkf2o67Giz3t6JJXsKhcxsxYvf1pQ173FdX5J6AAjp-vtbevmdwsBRiTW5-DayUVM84tZHN0xuwRPpSskfBdqKOW4lISJKbPbQI9WncJV--xp3j5ZIbogpTIrf4Pfdwz8hfZnW2i~hywrXU6Z2ipJW-q5DnENg4U0NyYsnsDQRA~VLLy0w8gfunO6RpHJeX6~NYYR9bPIMvyUWhYACJt0FE~2qjhkOZGiqo59GZ8P6enDYyQ__"
+                            src="https://images.pexels.com/photos/31228830/pexels-photo-31228830/free-photo-of-coffee-shop-barista-preparing-espresso-drink.jpeg?auto=compress&cs=tinysrgb&w=600"
                             alt="Barista Program"
                             className="w-[600px] h-[465px] object-cover"
                         />
@@ -77,7 +77,7 @@ const Programs = () => {
                     <div className="card w-full md:w-1/2 xl:w-1/3 flex flex-col items-center border border-[#AA9452] p-4 bg-[#FAF5DC] shadow-custom">
                         <div className="text-left ">
                             <img
-                                src="https://s3-alpha-sig.figma.com/img/2c61/8c73/7e4561c259eedd8633faaa4a772b757e?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DvQJGsQyuq5wRYoKP0mFVi9xVnNMXMGgAEWlZXG9cuHE3X7bKv2WZQ1mruuTCVWGppQbaRVdvIRhOvX4AXFcNtRArLWFDaulYMJZPi3Evc6Twr-GBcMrqBbPvYvVTLusd~s4idn1CXYWEQ8WrRjm7-LlQfGtbiwlTFqRyJJoyYQxyEguz6Byzrq-KbekuWif7bOfYiRIcP66ahV0n5mkmLcTECEnvlEO2AKhWdjxbEBdzUEpRivREiXtfXn~diNXAJnAfl5lWQQxv5cWCNOnO9dt3BQLJSwbxwEtThAxoeNtJeuK~cVABrks1vZHjqwMqECCQ-tpblUFaDKrLRj7ew__" // Uploaded image
+                                src="https://images.pexels.com/photos/31261499/pexels-photo-31261499/free-photo-of-delicious-rigatoni-pasta-with-spinach-pesto.jpeg?auto=compress&cs=tinysrgb&w=600" // Uploaded image
                                 alt="Chef Course"
                                 className="w-full h-[300px] object-cover"
                             />
@@ -104,7 +104,7 @@ const Programs = () => {
                         <div className="flex items-center justify-between w-full pl-5 pr-5">
                             <div className="flex items-center gap-2">
                                 <img
-                                    src="https://s3-alpha-sig.figma.com/img/8aaa/4aed/e7682482940b5c76326407433c19fefe?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Nx9fIC4R2OvjqAspXezxVUPRyPwdwqgw6k7tnbzUz9~PJYVS66EWibZ1n4VDMHjsjn4K9o8I9f9E5eRni2Kcp-zotgeX9-Rzs8qipkCAo2Wm2VnwU55eS19~Ox9s9oPHFEIQJmX47TMM751dUdWPX3BV6zcvFVST~h0rt90xBUVVK6mfRosOWv-~REs47VQd1x50ADbplzsvnd2nbUaRYGb5PnHpJDubaWRC2MTaHlMVGKJ0N4yfkHF4KEXrJ~sjFHka4KNHbtvBfGZ~0jpdw0MeerYZg5It-VEO9cfJeCZLtkl6tB9-x9Y~9yLMsVAuwlwuFU~yMnrTXr6O3tJkgA__"
+                                    src="https://images.pexels.com/photos/3298687/pexels-photo-3298687.jpeg?auto=compress&cs=tinysrgb&w=600"
                                     alt="Steven Harris"
                                     className="h-[50px]"
                                 />
@@ -124,7 +124,7 @@ const Programs = () => {
                     <div className="card w-full md:w-1/2 xl:w-1/3 flex flex-col items-center border border-[#AA9452] p-4 bg-black shadow-second_custom">
                         <div className="text-left ">
                             <img
-                                src="https://s3-alpha-sig.figma.com/img/fa60/689f/2b3963ad3bfe3df7bf23bdafd3523a88?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MUHMoMMQz2ah2NtJQjdYBCp2lU2oqO2-3pKn0KGNV1j~Cm3DcisWdgL1K7LftA15P3i7BGrj4erPA16YxWrIXQn-ieY~-ukzx7YnLUc5~1zWBDfTSkIdBRMCSM-Z8JwqNnMe-ef6BpGuXJMMg19C-2U2uaZeCct8AjzzWgdjI8k9Cl-OLmDKJu1GoVK5nrJKUmu-HwQNgAARvL3I4nYV0nlOXmHa09L1YexT6D4KZU78NX~hMmzNiA1ZSl8vi8KfGGuKIzMEEnfZZ3Sa7B4G93NC2Fgk3GfpAhjd0fIOWdMePMmhHF1T8kCCq4eBddM4XTJjuvSsDizRk97nlQP2Dw__" // Uploaded image
+                                src="https://images.pexels.com/photos/28647087/pexels-photo-28647087/free-photo-of-delicious-italian-pasta-dish-with-cherry-tomatoes.jpeg?auto=compress&cs=tinysrgb&w=600" // Uploaded image
                                 alt="Chef Course"
                                 className=" w-full h-[300px] object-cover"
                             />
@@ -151,8 +151,7 @@ const Programs = () => {
                         <div className="flex items-center justify-between w-full pl-5 pr-5">
                             <div className="flex items-center gap-2">
                                 <img
-                                    src="https://s3-alpha-sig.figma.com/img/8aaa/4aed/e7682482940b5c76326407433c19fefe?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Nx9fIC4R2OvjqAspXezxVUPRyPwdwqgw6k7tnbzUz9~PJYVS66EWibZ1n4VDMHjsjn4K9o8I9f9E5eRni2Kcp-zotgeX9-Rzs8qipkCAo2Wm2VnwU55eS19~Ox9s9oPHFEIQJmX47TMM751dUdWPX3BV6zcvFVST~h0rt90xBUVVK6mfRosOWv-~REs47VQd1x50ADbplzsvnd2nbUaRYGb5PnHpJDubaWRC2MTaHlMVGKJ0N4yfkHF4KEXrJ~sjFHka4KNHbtvBfGZ~0jpdw0MeerYZg5It-VEO9cfJeCZLtkl6tB9-x9Y~9yLMsVAuwlwuFU~yMnrTXr6O3tJkgA__"
-                                    alt="Steven Harris"
+                                    src="https://images.pexels.com/photos/3298687/pexels-photo-3298687.jpeg?auto=compress&cs=tinysrgb&w=600"
                                     className="h-[50px]"
                                 />
                                 <div>
@@ -180,7 +179,7 @@ const Programs = () => {
                     <div className="card w-full md:w-1/2 xl:w-1/3 flex flex-col items-center border border-[#AA9452] p-4 bg-[#FAF5DC] shadow-custom">
                         <div className="text-left ">
                             <img
-                                src="https://s3-alpha-sig.figma.com/img/2c61/8c73/7e4561c259eedd8633faaa4a772b757e?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DvQJGsQyuq5wRYoKP0mFVi9xVnNMXMGgAEWlZXG9cuHE3X7bKv2WZQ1mruuTCVWGppQbaRVdvIRhOvX4AXFcNtRArLWFDaulYMJZPi3Evc6Twr-GBcMrqBbPvYvVTLusd~s4idn1CXYWEQ8WrRjm7-LlQfGtbiwlTFqRyJJoyYQxyEguz6Byzrq-KbekuWif7bOfYiRIcP66ahV0n5mkmLcTECEnvlEO2AKhWdjxbEBdzUEpRivREiXtfXn~diNXAJnAfl5lWQQxv5cWCNOnO9dt3BQLJSwbxwEtThAxoeNtJeuK~cVABrks1vZHjqwMqECCQ-tpblUFaDKrLRj7ew__" // Uploaded image
+                                src="https://images.pexels.com/photos/28575312/pexels-photo-28575312/free-photo-of-traditional-spaghetti-bolognese-with-fresh-ingredients.jpeg?auto=compress&cs=tinysrgb&w=600" // Uploaded image
                                 alt="Chef Course"
                                 className="w-full h-[300px] object-cover"
                             />
@@ -207,7 +206,7 @@ const Programs = () => {
                         <div className="flex items-center justify-between w-full pl-5 pr-5">
                             <div className="flex items-center gap-2">
                                 <img
-                                    src="https://s3-alpha-sig.figma.com/img/8aaa/4aed/e7682482940b5c76326407433c19fefe?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Nx9fIC4R2OvjqAspXezxVUPRyPwdwqgw6k7tnbzUz9~PJYVS66EWibZ1n4VDMHjsjn4K9o8I9f9E5eRni2Kcp-zotgeX9-Rzs8qipkCAo2Wm2VnwU55eS19~Ox9s9oPHFEIQJmX47TMM751dUdWPX3BV6zcvFVST~h0rt90xBUVVK6mfRosOWv-~REs47VQd1x50ADbplzsvnd2nbUaRYGb5PnHpJDubaWRC2MTaHlMVGKJ0N4yfkHF4KEXrJ~sjFHka4KNHbtvBfGZ~0jpdw0MeerYZg5It-VEO9cfJeCZLtkl6tB9-x9Y~9yLMsVAuwlwuFU~yMnrTXr6O3tJkgA__"
+                                    src="https://images.pexels.com/photos/31228830/pexels-photo-31228830/free-photo-of-coffee-shop-barista-preparing-espresso-drink.jpeg?auto=compress&cs=tinysrgb&w=600"
                                     alt="Steven Harris"
                                     className="h-[50px]"
                                 />
@@ -227,7 +226,7 @@ const Programs = () => {
                     <div className="card w-full md:w-1/2 xl:w-1/3 flex flex-col items-center border border-[#AA9452] p-4 bg-black shadow-second_custom">
                         <div className="text-left ">
                             <img
-                                src="https://s3-alpha-sig.figma.com/img/fa60/689f/2b3963ad3bfe3df7bf23bdafd3523a88?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MUHMoMMQz2ah2NtJQjdYBCp2lU2oqO2-3pKn0KGNV1j~Cm3DcisWdgL1K7LftA15P3i7BGrj4erPA16YxWrIXQn-ieY~-ukzx7YnLUc5~1zWBDfTSkIdBRMCSM-Z8JwqNnMe-ef6BpGuXJMMg19C-2U2uaZeCct8AjzzWgdjI8k9Cl-OLmDKJu1GoVK5nrJKUmu-HwQNgAARvL3I4nYV0nlOXmHa09L1YexT6D4KZU78NX~hMmzNiA1ZSl8vi8KfGGuKIzMEEnfZZ3Sa7B4G93NC2Fgk3GfpAhjd0fIOWdMePMmhHF1T8kCCq4eBddM4XTJjuvSsDizRk97nlQP2Dw__" // Uploaded image
+                                src="https://images.pexels.com/photos/31261499/pexels-photo-31261499/free-photo-of-delicious-rigatoni-pasta-with-spinach-pesto.jpeg?auto=compress&cs=tinysrgb&w=600" // Uploaded image
                                 alt="Chef Course"
                                 className=" w-full h-[300px] object-cover"
                             />
@@ -254,7 +253,7 @@ const Programs = () => {
                         <div className="flex items-center justify-between w-full pl-5 pr-5">
                             <div className="flex items-center gap-2">
                                 <img
-                                    src="https://s3-alpha-sig.figma.com/img/8aaa/4aed/e7682482940b5c76326407433c19fefe?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Nx9fIC4R2OvjqAspXezxVUPRyPwdwqgw6k7tnbzUz9~PJYVS66EWibZ1n4VDMHjsjn4K9o8I9f9E5eRni2Kcp-zotgeX9-Rzs8qipkCAo2Wm2VnwU55eS19~Ox9s9oPHFEIQJmX47TMM751dUdWPX3BV6zcvFVST~h0rt90xBUVVK6mfRosOWv-~REs47VQd1x50ADbplzsvnd2nbUaRYGb5PnHpJDubaWRC2MTaHlMVGKJ0N4yfkHF4KEXrJ~sjFHka4KNHbtvBfGZ~0jpdw0MeerYZg5It-VEO9cfJeCZLtkl6tB9-x9Y~9yLMsVAuwlwuFU~yMnrTXr6O3tJkgA__"
+                                    src="https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=600"
                                     alt="Steven Harris"
                                     className="h-[50px]"
                                 />
@@ -283,7 +282,7 @@ const Programs = () => {
                     <div className="card w-full md:w-1/2 xl:w-1/3 flex flex-col items-center border border-[#AA9452] p-4 bg-[#FAF5DC] shadow-custom">
                         <div className="text-left ">
                             <img
-                                src="https://s3-alpha-sig.figma.com/img/2c61/8c73/7e4561c259eedd8633faaa4a772b757e?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DvQJGsQyuq5wRYoKP0mFVi9xVnNMXMGgAEWlZXG9cuHE3X7bKv2WZQ1mruuTCVWGppQbaRVdvIRhOvX4AXFcNtRArLWFDaulYMJZPi3Evc6Twr-GBcMrqBbPvYvVTLusd~s4idn1CXYWEQ8WrRjm7-LlQfGtbiwlTFqRyJJoyYQxyEguz6Byzrq-KbekuWif7bOfYiRIcP66ahV0n5mkmLcTECEnvlEO2AKhWdjxbEBdzUEpRivREiXtfXn~diNXAJnAfl5lWQQxv5cWCNOnO9dt3BQLJSwbxwEtThAxoeNtJeuK~cVABrks1vZHjqwMqECCQ-tpblUFaDKrLRj7ew__" // Uploaded image
+                                src="https://images.pexels.com/photos/31282323/pexels-photo-31282323/free-photo-of-delicious-beef-bowl-with-soft-boiled-eggs.jpeg?auto=compress&cs=tinysrgb&w=600" // Uploaded image
                                 alt="Chef Course"
                                 className="w-full h-[300px] object-cover"
                             />
@@ -310,7 +309,7 @@ const Programs = () => {
                         <div className="flex items-center justify-between w-full pl-5 pr-5">
                             <div className="flex items-center gap-2">
                                 <img
-                                    src="https://s3-alpha-sig.figma.com/img/8aaa/4aed/e7682482940b5c76326407433c19fefe?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Nx9fIC4R2OvjqAspXezxVUPRyPwdwqgw6k7tnbzUz9~PJYVS66EWibZ1n4VDMHjsjn4K9o8I9f9E5eRni2Kcp-zotgeX9-Rzs8qipkCAo2Wm2VnwU55eS19~Ox9s9oPHFEIQJmX47TMM751dUdWPX3BV6zcvFVST~h0rt90xBUVVK6mfRosOWv-~REs47VQd1x50ADbplzsvnd2nbUaRYGb5PnHpJDubaWRC2MTaHlMVGKJ0N4yfkHF4KEXrJ~sjFHka4KNHbtvBfGZ~0jpdw0MeerYZg5It-VEO9cfJeCZLtkl6tB9-x9Y~9yLMsVAuwlwuFU~yMnrTXr6O3tJkgA__"
+                                    src="https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=600"
                                     alt="Steven Harris"
                                     className="h-[50px]"
                                 />
@@ -330,7 +329,7 @@ const Programs = () => {
                     <div className="card w-full md:w-1/2 xl:w-1/3 flex flex-col items-center border border-[#AA9452] p-4 bg-black shadow-second_custom">
                         <div className="text-left ">
                             <img
-                                src="https://s3-alpha-sig.figma.com/img/fa60/689f/2b3963ad3bfe3df7bf23bdafd3523a88?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MUHMoMMQz2ah2NtJQjdYBCp2lU2oqO2-3pKn0KGNV1j~Cm3DcisWdgL1K7LftA15P3i7BGrj4erPA16YxWrIXQn-ieY~-ukzx7YnLUc5~1zWBDfTSkIdBRMCSM-Z8JwqNnMe-ef6BpGuXJMMg19C-2U2uaZeCct8AjzzWgdjI8k9Cl-OLmDKJu1GoVK5nrJKUmu-HwQNgAARvL3I4nYV0nlOXmHa09L1YexT6D4KZU78NX~hMmzNiA1ZSl8vi8KfGGuKIzMEEnfZZ3Sa7B4G93NC2Fgk3GfpAhjd0fIOWdMePMmhHF1T8kCCq4eBddM4XTJjuvSsDizRk97nlQP2Dw__" // Uploaded image
+                                src="https://images.pexels.com/photos/11596067/pexels-photo-11596067.jpeg?auto=compress&cs=tinysrgb&w=600" // Uploaded image
                                 alt="Chef Course"
                                 className=" w-full h-[300px] object-cover"
                             />
@@ -357,8 +356,8 @@ const Programs = () => {
                         <div className="flex items-center justify-between w-full pl-5 pr-5">
                             <div className="flex items-center gap-2">
                                 <img
-                                    src="https://s3-alpha-sig.figma.com/img/8aaa/4aed/e7682482940b5c76326407433c19fefe?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Nx9fIC4R2OvjqAspXezxVUPRyPwdwqgw6k7tnbzUz9~PJYVS66EWibZ1n4VDMHjsjn4K9o8I9f9E5eRni2Kcp-zotgeX9-Rzs8qipkCAo2Wm2VnwU55eS19~Ox9s9oPHFEIQJmX47TMM751dUdWPX3BV6zcvFVST~h0rt90xBUVVK6mfRosOWv-~REs47VQd1x50ADbplzsvnd2nbUaRYGb5PnHpJDubaWRC2MTaHlMVGKJ0N4yfkHF4KEXrJ~sjFHka4KNHbtvBfGZ~0jpdw0MeerYZg5It-VEO9cfJeCZLtkl6tB9-x9Y~9yLMsVAuwlwuFU~yMnrTXr6O3tJkgA__"
-                                    alt="Steven Harris"
+                                    src="https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=600"
+                                    alt="Harris"
                                     className="h-[50px]"
                                 />
                                 <div>

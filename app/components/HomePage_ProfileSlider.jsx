@@ -19,7 +19,7 @@ const facultyMembers = [
         role: "Trainer And Training Coordinator",
         description:
             "Md. Ohlduzzaman, Trainer And Training Coordinator at ENTH Bangladesh. Specializes in F&B Production.lo lore Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui dolor explicabo temporibus alias sequi eum nulla   reprehenderit odio, ea fugit  adipisci totam dolorem maxime, cupiditate iure where is this resturt this is demo n F&B Production.lo lore Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui dolor explicabo temporibus alias sequi eum nulla   reprehenderit odio, ea fugit  adipisci totam dolorem maxime, cupiditate iure where is this resturt this is demo",
-        image: "https://s3-alpha-sig.figma.com/img/71ab/886c/7b6b152e8186276126a0cfc65f05da11?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XYNK5-QEM5qJ0q6MnxEl-Ik14b-KsuTmSZPahW7E9Src9~2mkshEtM8OsofeNCgdtp-mEyV08NMep3OPJZCbMkBUtQNngHAGsL2GlGA4wtd5DtksFAnQ9eLYN8sje4pmpnorw3G3aIhBwO2ii42rvhaNzBw8YztesAUxm8YqSjqXcArXz6QsU85DjAqQWvliD6mObWCzJQ25Hs7MOTpc48DFgddyXUalo5Z8AAYlLhzxB-jtkQbz2IXwhkSyLCVIAO8WslGTANqTMr11ToZGoONx2q-gcQwC37rvQC4lP4Ja-ucH~Ag8pLp840nBMXzRbzNK2Ay4DBYflTjmB3kC6Q__",
+        image: "https://images.pexels.com/photos/24876025/pexels-photo-24876025/free-photo-of-man-posing-with-a-loaf-in-a-yellow-chef-outfit.jpeg?auto=compress&cs=tinysrgb&w=600",
         profession: "Trainer"
     },
     {
@@ -81,7 +81,7 @@ export default function FacultySlider() {
                     <h1 className="text-[30px] md:text-[54px] font-cinzel text-transparent bg-clip-text bg-gradient-to-b from-[#993128] to-[#33100D]"><span
                         className="inline-block relative w-[30px] h-[30px] md:w-[54px] md:h-[54px] rounded-full bg-cover bg-center mx-1 align-middle bottom-1"
                         style={{
-                            backgroundImage: "url('https://s3-alpha-sig.figma.com/img/75c3/507d/591f46389cd49f338e4ac7b451c3def2?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=sQgbdJ-vb~8Odbp8HFYbBOdKzz1MXk2~lcKQyU3UeWASSvE3W0z9X95fnjuP4MFpMS2QJwz~LtAHJ7pD686QGqR1XpSVn7dnf7KPoTElQ8siVAaaqORKFm4cb51WOmxojOZajv2Q3rzVWYbSIN8MYQ08Td2vyZryQmLbzKjdwYJsbGiSFOIhjX3OSqwHy6uGo66z1qm5il7fgLtWPRtjUT0tHqUtJ4j4O3oE-SWrKis9lOk5w1dm26QPYErPFnyPp5CxOm2v8dzGxNWWEXAvDjboPLs92LMe1gQZWgybL7qsYRFrl87W2YB~k8tHCGaMeZvyAfezQCTU-zZfSXuy5w__')",
+                            backgroundImage: "url('https://images.pexels.com/photos/1132047/pexels-photo-1132047.jpeg?auto=compress&cs=tinysrgb&w=600')",
                             verticalAlign: "middle"
                         }}>
                     </span>UR EXPERT FACULTY</h1>

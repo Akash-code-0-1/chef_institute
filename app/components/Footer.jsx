@@ -13,7 +13,7 @@ export default function Footer() {
           {/* Logo and Social Section */}
           <div className="space-y-4">
             <img
-              src="https://s3-alpha-sig.figma.com/img/fef2/96f4/1467690ac8530147e74d63db4315415a?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=aeWYkhJM50x7iC4FpWpCiS6zGEDCmJUV3eVFA55sBgG-f0qg9b7jW8ObiukZ6N8LTyc1xZDvcOEjLX56c6WPEhr2wDE8YGvHsaHI38VBYtM-Soarjuz4PvmgtPq1PkjHv3k~Mmws-8LB94OXjq1qg86B6yQ00VVE3XGk4W40yQ4atqdyohDQFm7E2AaG6JUKf8aSXVJpvLq5vlzS-IlGcmVBIrJs1GBtYlrjSU69THAOu~FRRmIOij7mHIOERwNGPb5y08~nO~rqPrLBgLj45~pif0G7lpv79XAbhFzIa~kCsw7amnL4n0~0OTgQ0qj~rY77P6s80LOmcLd6rSqe0A__"
+              src="https://img.freepik.com/premium-vector/detailed-chef-logo-template_23-2148985188.jpg?w=826"
               alt="Logo"
               className="w-24 h-24 object-contain mb-4"
             />

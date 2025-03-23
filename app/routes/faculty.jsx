@@ -5,32 +5,32 @@ import Apply_section from '../components/Apply_section';
 const facultyData = [
     {
         name: "MD. OHLDUZZAMAN",
-        title: "Trainer and Training Coordinator",
-        image: "https://s3-alpha-sig.figma.com/img/9f13/1306/ca97f9d4113523e2d8af081d361bf883?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=PM5UwT6spBAA-zoBOJ-swle9hWLkf317AXcZJXsug75sfPPi6~lb4WwLcEktBWwbFeScRo~oAwGs4Yw74qXczPgcrHnNJT6EtnEfiON7kzCegZuTuVUDahHmQgmVqGM9QTeJurO4rP2D7fLv-6jxxINKYk0KvlXvZxkKL05HsW9VSOlEWiljZUWjTfUmE3TtP~3krAXD6g8flrqQfuMgXofav2-uIRzV-yanZrR-erZziupnp7DGcC~Tu0cpaTYy7~Y0hPHYrSyRQx9vNSYelyTnc6xeN7fWplqduvbI36rp8fXsaPaVDSnR6LOoROyNbAG6tPT6oPFBcU2tB61TSw__",
+        title: "Executive Chef & Mentor",
+        image: "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=600",
         description: "   Md. Ohlduzzaman, Trainer and Training Coordinator at RNTHI Bangladesh, specializes in F&B Production. Certified lore raining Coordinator at RNTHI Bangladesh, specializes in F&B Production. Certified lore raining Coordinator at RNTHI Bangladesh, specializes in F&B Production. Certified lore raining Coordinator at RNTHI Bangladesh, specializes in F&B Production. Certified lore move it",
     },
     {
         name: "John Smith",
         title: "Pastry Chef & Trainer",
-        image: "https://randomuser.me/api/portraits/men/45.jpg",
+        image: "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&w=600",
         description: "Trainer and Training Coordinator at RNTHI Bangladesh, specializes in F&B Production. Certified lore raining Coordinator at RNTHI Bangladesh, specializes in F&B Production. Certified lore raining Coordinator at RNTHI Bangladesh, specializes in F&B Production. Certified lore raining Coordinator at RNTHI Bangladesh, specializes in F&B Production. Certified lore move it",
     },
     {
         name: "Emily Davis",
         title: "Nutrition & Dietetics Specialist",
-        image: "https://randomuser.me/api/portraits/women/60.jpg",
+        image: "https://images.pexels.com/photos/1197132/pexels-photo-1197132.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         description: "Trainer and Training Coordinator at RNTHI Bangladesh, specializes in F&B Production. Certified lore raining Coordinator at RNTHI Bangladesh, specializes in F&B Production. Certified lore raining Coordinator at RNTHI Bangladesh, specializes in F&B Production. Certified lore raining Coordinator at RNTHI Bangladesh, specializes in F&B Production. Certified lore move it",
     },
     {
         name: "Michael Brown",
         title: "Executive Chef & Mentor",
-        image: "https://randomuser.me/api/portraits/men/55.jpg",
+        image: "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=600",
         description: "Michael Brown Trainer and Training Coordinator at RNTHI Bangladesh, specializes in F&B Production. Certified lore raining Coordinator at RNTHI Bangladesh, specializes in F&B Production. Certified lore raining Coordinator at RNTHI Bangladesh, specializes in F&B Production. Certified lore raining Coordinator at RNTHI Bangladesh, specializes in F&B Production. Certified lore move it",
     },
     {
         name: "Sophia Lee",
         title: "Food Science & Innovation Expert",
-        image: "https://randomuser.me/api/portraits/women/65.jpg",
+        image: "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=600",
         description: "Sophia Lee Trainer and Training Coordinator at RNTHI Bangladesh, specializes in F&B Production. Certified lore raining Coordinator at RNTHI Bangladesh, specializes in F&B Production. Certified lore raining Coordinator at RNTHI Bangladesh, specializes in F&B Production. Certified lore raining Coordinator at RNTHI Bangladesh, specializes in F&B Production. Certified lore move it",
     },
 ];

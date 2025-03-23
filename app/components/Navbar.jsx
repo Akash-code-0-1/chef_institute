@@ -54,7 +54,7 @@ const Navbar = () => {
                         {/* Left Section */}
                         <div className="left_section">
                             <img
-                                src="https://s3-alpha-sig.figma.com/img/44d0/dc86/0e7a6f48deab82829323eddb5ea76650?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XGKia-D5ABPtXyqSP~21-EH4N2GgAOg54Ex7uV18WorSP-DIYBBfQF0D9g8SnosXiFs0P7IgdSHbva2HuEP520egOzgqcTsOEPzuTDvDjzwcekVz4ZutQw4olu~aost6HOfmjQFnw6LdHCbUDtsSgcIT49mRYmrbIrE2n9dqPirZeuKRt9Lc5FWGSohCNkIBrsIAVSNCwG-H18~3WEuwDT~KXt7mV4N3pOrIPg-21nDfnq-4z2YmdnE6WvBuinEIQ6fLsU47FLIcyzSJED7FoItJ9dfutz2FC8a7cWS6XvqAccdAgizt~BsJfXfFirNIOznAwkTaT8Cw-nvIXHDjjw__"
+                                src="https://img.freepik.com/premium-vector/detailed-chef-logo-template_23-2148985188.jpg?w=826"
                                 alt=""
                                 className="h-[50px] lg:h-[70px] xl:h-[80px]"
                             />
@@ -248,8 +248,12 @@ const Navbar = () => {
 
                                     <div className="right_section hidden relative lg:flex flex-col gap-0 h-fit md:w-[250px] lg:w-[250px] xl:w-[350px]">
                                         <div className="text_container text-right ">
-                                            <p className="mb-3 mt-10 text-[12px]">Lorem ipsum dolor sit, amet consecteg elit. Dolorem illo nulla delectus qui odit. A voluptas corporis quo ab expedita aliquid iste suscipit esse vo</p>
-                                            <span className="pt-3">- John Doe</span>
+                                            <p className="mb-3 mt-10 text-[12px]">
+                                                "Chief Institute transformed my career with expert faculty and hands-on learning. Grateful for the mentorship and support!"
+                                            </p>
+                                            <span className="pt-3">- David Jos</span>
+
+
                                         </div>
                                         <div className="explore w-full md:h-[100px] lg:h-[120px] xl:h-[150px] flex justify-start items-center bg-[#993128]  rounded-l-full rounded-r-md ml-4 p-3 text-left">
                                             <img src="https://img.freepik.com/premium-vector/culinary-elegance-crafting-memorable-restaurant-logos-distinctive-dining-experience_579306-22256.jpg" alt="" className="rounded-full md:h-[70px] lg:h-[90px] xl:h-[120px] " />

@@ -38,7 +38,7 @@ export default function Home() {
       <div className="grid grid-cols-1 lg:grid-cols-2 justify-center items-center">
 
         <div className="left_section order-2 lg:order-1 flex flex-col justify-center items-center">
-          <img src="https://s3-alpha-sig.figma.com/img/324b/5585/3b503157087155b5437c9e0d3850e793?Expires=1738540800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LiH~0ThZrmSYk2m7RALPIl66aox2rO45vZcs4ORdp-8l74FSwfyl7At76rHybw8ukfGPF4lrhcAl8S8Z72oJBGHJPO~o1WavOb1TS3e0MKM9Oz85fQN7bTGSrGlPTqpT8jp4mQjHDonLyWkaNgxvCgoSUBS5jj7SW-g1zz0ZjXg3CELK~C2tk3gyd9ZPjc6T7A~yJy1DDZgizueFGRGqBj2fL7atA6J2KZVL6ZGoSS5rDW108-6iXEwHi0QMVv4lV--JGivqC5uJpyoEzTqhjWLcTxB6aRwppBxG-BxciVEUHYr~qVmITH6reDmPicmUxYRyskYSMnNl84mq-hulxA__" alt="" className="h-[445px] w-[450px] object-cover shadow-custom" />
+          <img src="https://images.pexels.com/photos/19501326/pexels-photo-19501326/free-photo-of-woman-hands-cutting-simit-for-breakfast.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load" alt="" className="h-[445px] w-[450px] object-cover shadow-custom" />
 
           <div className="w-[450px] p-6 bg-[#F2E39B] mt-5">
             <h1 className="mb-2 text-[20px] font-cinzel font-semibold text-transparent bg-clip-text bg-gradient-to-b from-[#993128] to-[#33100D]">OUR CONTACT</h1>
@@ -60,7 +60,7 @@ export default function Home() {
               <span
                 className="inline-block relative w-[43px] h-[43px] rounded-full bg-cover bg-center mx-1 align-middle bottom-1"
                 style={{
-                  backgroundImage: "url('https://s3-alpha-sig.figma.com/img/75c3/507d/591f46389cd49f338e4ac7b451c3def2?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=sQgbdJ-vb~8Odbp8HFYbBOdKzz1MXk2~lcKQyU3UeWASSvE3W0z9X95fnjuP4MFpMS2QJwz~LtAHJ7pD686QGqR1XpSVn7dnf7KPoTElQ8siVAaaqORKFm4cb51WOmxojOZajv2Q3rzVWYbSIN8MYQ08Td2vyZryQmLbzKjdwYJsbGiSFOIhjX3OSqwHy6uGo66z1qm5il7fgLtWPRtjUT0tHqUtJ4j4O3oE-SWrKis9lOk5w1dm26QPYErPFnyPp5CxOm2v8dzGxNWWEXAvDjboPLs92LMe1gQZWgybL7qsYRFrl87W2YB~k8tHCGaMeZvyAfezQCTU-zZfSXuy5w__')",
+                  backgroundImage: "url('https://images.pexels.com/photos/1132047/pexels-photo-1132047.jpeg?auto=compress&cs=tinysrgb&w=600')",
                   verticalAlign: "middle"
                 }}>
               </span>
@@ -128,7 +128,7 @@ export default function Home() {
 
           <div className="image w-2/2">
             <img
-              src="https://s3-alpha-sig.figma.com/img/bd4a/1c00/bb2764cd64438fd0b1234f6bf4edd9a5?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oKbnCc~KErqscvU9HJ5dA4mFza1HHzlxfxx-~U~h1fdENv3EFYq1E4gHp4wsZu3HzZpsD-BzkWjTrQdKjCPCtYYdY9hjgWSqfyBYGYrkf2o67Giz3t6JJXsKhcxsxYvf1pQ173FdX5J6AAjp-vtbevmdwsBRiTW5-DayUVM84tZHN0xuwRPpSskfBdqKOW4lISJKbPbQI9WncJV--xp3j5ZIbogpTIrf4Pfdwz8hfZnW2i~hywrXU6Z2ipJW-q5DnENg4U0NyYsnsDQRA~VLLy0w8gfunO6RpHJeX6~NYYR9bPIMvyUWhYACJt0FE~2qjhkOZGiqo59GZ8P6enDYyQ__"
+              src="https://media.istockphoto.com/id/1166057393/photo/pot-with-fire-chief-cooking.jpg?s=612x612&w=0&k=20&c=InqccvYAnQi6njUvWSj23EyumUTzaTuycEU8VPsxGqw="
               alt="Barista Program"
               className="w-[600px] h-[465px] object-cover"
             />
@@ -150,7 +150,7 @@ export default function Home() {
           <div className="card w-full md:w-1/2 xl:w-1/3 flex flex-col items-center border border-[#AA9452] p-4 bg-[#FAF5DC] shadow-custom">
             <div className="text-left ">
               <img
-                src="https://s3-alpha-sig.figma.com/img/2c61/8c73/7e4561c259eedd8633faaa4a772b757e?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DvQJGsQyuq5wRYoKP0mFVi9xVnNMXMGgAEWlZXG9cuHE3X7bKv2WZQ1mruuTCVWGppQbaRVdvIRhOvX4AXFcNtRArLWFDaulYMJZPi3Evc6Twr-GBcMrqBbPvYvVTLusd~s4idn1CXYWEQ8WrRjm7-LlQfGtbiwlTFqRyJJoyYQxyEguz6Byzrq-KbekuWif7bOfYiRIcP66ahV0n5mkmLcTECEnvlEO2AKhWdjxbEBdzUEpRivREiXtfXn~diNXAJnAfl5lWQQxv5cWCNOnO9dt3BQLJSwbxwEtThAxoeNtJeuK~cVABrks1vZHjqwMqECCQ-tpblUFaDKrLRj7ew__" // Uploaded image
+                src="https://images.pexels.com/photos/4253312/pexels-photo-4253312.jpeg?auto=compress&cs=tinysrgb&w=600" // Uploaded image
                 alt="Chef Course"
                 className="w-full h-[300px] object-cover"
               />
@@ -177,7 +177,7 @@ export default function Home() {
             <div className="flex items-center justify-between w-full pl-5 pr-5">
               <div className="flex items-center gap-2">
                 <img
-                  src="https://s3-alpha-sig.figma.com/img/8aaa/4aed/e7682482940b5c76326407433c19fefe?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Nx9fIC4R2OvjqAspXezxVUPRyPwdwqgw6k7tnbzUz9~PJYVS66EWibZ1n4VDMHjsjn4K9o8I9f9E5eRni2Kcp-zotgeX9-Rzs8qipkCAo2Wm2VnwU55eS19~Ox9s9oPHFEIQJmX47TMM751dUdWPX3BV6zcvFVST~h0rt90xBUVVK6mfRosOWv-~REs47VQd1x50ADbplzsvnd2nbUaRYGb5PnHpJDubaWRC2MTaHlMVGKJ0N4yfkHF4KEXrJ~sjFHka4KNHbtvBfGZ~0jpdw0MeerYZg5It-VEO9cfJeCZLtkl6tB9-x9Y~9yLMsVAuwlwuFU~yMnrTXr6O3tJkgA__"
+                  src="https://images.pexels.com/photos/3338672/pexels-photo-3338672.jpeg?auto=compress&cs=tinysrgb&w=600"
                   alt="Steven Harris"
                   className="h-[50px]"
                 />
@@ -197,7 +197,7 @@ export default function Home() {
           <div className="card w-full md:w-1/2 xl:w-1/3 flex flex-col items-center border border-[#AA9452] p-4 bg-black shadow-second_custom">
             <div className="text-left ">
               <img
-                src="https://s3-alpha-sig.figma.com/img/fa60/689f/2b3963ad3bfe3df7bf23bdafd3523a88?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MUHMoMMQz2ah2NtJQjdYBCp2lU2oqO2-3pKn0KGNV1j~Cm3DcisWdgL1K7LftA15P3i7BGrj4erPA16YxWrIXQn-ieY~-ukzx7YnLUc5~1zWBDfTSkIdBRMCSM-Z8JwqNnMe-ef6BpGuXJMMg19C-2U2uaZeCct8AjzzWgdjI8k9Cl-OLmDKJu1GoVK5nrJKUmu-HwQNgAARvL3I4nYV0nlOXmHa09L1YexT6D4KZU78NX~hMmzNiA1ZSl8vi8KfGGuKIzMEEnfZZ3Sa7B4G93NC2Fgk3GfpAhjd0fIOWdMePMmhHF1T8kCCq4eBddM4XTJjuvSsDizRk97nlQP2Dw__" // Uploaded image
+                src="https://images.pexels.com/photos/1397514/pexels-photo-1397514.jpeg?auto=compress&cs=tinysrgb&w=600" // Uploaded image
                 alt="Chef Course"
                 className=" w-full h-[300px] object-cover"
               />
@@ -224,7 +224,7 @@ export default function Home() {
             <div className="flex items-center justify-between w-full pl-5 pr-5">
               <div className="flex items-center gap-2">
                 <img
-                  src="https://s3-alpha-sig.figma.com/img/8aaa/4aed/e7682482940b5c76326407433c19fefe?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Nx9fIC4R2OvjqAspXezxVUPRyPwdwqgw6k7tnbzUz9~PJYVS66EWibZ1n4VDMHjsjn4K9o8I9f9E5eRni2Kcp-zotgeX9-Rzs8qipkCAo2Wm2VnwU55eS19~Ox9s9oPHFEIQJmX47TMM751dUdWPX3BV6zcvFVST~h0rt90xBUVVK6mfRosOWv-~REs47VQd1x50ADbplzsvnd2nbUaRYGb5PnHpJDubaWRC2MTaHlMVGKJ0N4yfkHF4KEXrJ~sjFHka4KNHbtvBfGZ~0jpdw0MeerYZg5It-VEO9cfJeCZLtkl6tB9-x9Y~9yLMsVAuwlwuFU~yMnrTXr6O3tJkgA__"
+                  src="https://images.pexels.com/photos/3351927/pexels-photo-3351927.jpeg?auto=compress&cs=tinysrgb&w=600"
                   alt="Steven Harris"
                   className="h-[50px]"
                 />
@@ -281,12 +281,12 @@ export default function Home() {
           <h3 className="text-[#CD9B2F] text-[14px]">RESOURCEFUL INFORMATION</h3>
           <h2 className="text-[54px] font-cinzel font-bold text-transparent bg-clip-text bg-gradient-to-b from-[#993128] to-[#33100D]">
             YOUR FO<span
-                className="inline-block relative w-[54px] h-[54px] rounded-full bg-cover bg-center mx-1 align-middle bottom-1"
-                style={{
-                  backgroundImage: "url('https://s3-alpha-sig.figma.com/img/75c3/507d/591f46389cd49f338e4ac7b451c3def2?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=sQgbdJ-vb~8Odbp8HFYbBOdKzz1MXk2~lcKQyU3UeWASSvE3W0z9X95fnjuP4MFpMS2QJwz~LtAHJ7pD686QGqR1XpSVn7dnf7KPoTElQ8siVAaaqORKFm4cb51WOmxojOZajv2Q3rzVWYbSIN8MYQ08Td2vyZryQmLbzKjdwYJsbGiSFOIhjX3OSqwHy6uGo66z1qm5il7fgLtWPRtjUT0tHqUtJ4j4O3oE-SWrKis9lOk5w1dm26QPYErPFnyPp5CxOm2v8dzGxNWWEXAvDjboPLs92LMe1gQZWgybL7qsYRFrl87W2YB~k8tHCGaMeZvyAfezQCTU-zZfSXuy5w__')",
-                  verticalAlign: "middle"
-                }}>
-              </span>D FUTURE STARTS HERE
+              className="inline-block relative w-[54px] h-[54px] rounded-full bg-cover bg-center mx-1 align-middle bottom-1"
+              style={{
+                backgroundImage: "url('https://images.pexels.com/photos/1132047/pexels-photo-1132047.jpeg?auto=compress&cs=tinysrgb&w=600')",
+                verticalAlign: "middle"
+              }}>
+            </span>D FUTURE STARTS HERE
           </h2>
         </div>
 
@@ -294,7 +294,7 @@ export default function Home() {
 
           <div className="relative group overflow-hidden  shadow-lg">
             <img
-              src="https://s3-alpha-sig.figma.com/img/9f13/1306/ca97f9d4113523e2d8af081d361bf883?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Ywhj495jVgPk5TOyS8YVosaV0FKBxF4Av-LE7vdUKe16M7C3Uy6~CKvyxSy9UQChQLAyXAyQxKoA-znPoAgAKdyyJoHSavahnV0b0obAEfl-MRnj5~2iR5xLSwUC0UFURk~krS6dZRfJ9EEoipAD0hE8pYDTSB5TPpEnGnB3X5iICso2NV~uCoJf5sBepgzW8sjLylI2ALpE-7wsZLw~PMgQnc4qZoOsiFi6UVX75DIIa-cbrDeDb31TYlkkzHJ0VTFK7lteIgNS6ynyG0yZ-OrRD9Xnnl9hqY6MPPzzNmbRMbgEIPgnLt0qXyAE6ZnDL5KeDCtZX5dNsQNqr7GEeQ__"
+              src="https://images.pexels.com/photos/3217146/pexels-photo-3217146.jpeg?auto=compress&cs=tinysrgb&w=600"
               alt="Admissions"
               className="w-full h-[510px] object-cover object-top transition-transform transform group-hover:scale-105"
             />
@@ -311,7 +311,7 @@ export default function Home() {
 
           <div className="relative group overflow-hidden  shadow-lg">
             <img
-              src="https://s3-alpha-sig.figma.com/img/9cb1/ec20/463841beff1ee02e193c4cb506fb0ef4?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XLmayor53L~5B8EiOQZdsUdUmluMnS-pUcgIvwHku54J~dP8dDNWZfYBhkPLoAOWvmgwxmr7VckJulpzH4qfRvf~7CWmktJErrWHKZbASApfxr9JNJ1FnvAJofalTRu6J9PCaESiDAyDY~7-t-OXPP49YA7rKq83QYTrtgA4PTJ3R2-nQoj0ZNEJMpNim~l5KM1l2NVxqXsGl2s-vqYTv7Bb~p8snXkuAHwhXWf2SYXB-g26ns4uDun-TfNtQyIrLk5Xw5RCVcGfgU86mBwz3mc5HvA0t4jzkz7Ok~Dy-rKPksZk8Q65nTK~MQn3PDjgEbIFMux6mQeqLkBnBuF89w__"
+              src="https://images.pexels.com/photos/3771106/pexels-photo-3771106.jpeg?auto=compress&cs=tinysrgb&w=600"
               alt="Admissions"
               className="w-full h-[510px] object-cover object-top transition-transform transform group-hover:scale-105"
             />
@@ -326,7 +326,7 @@ export default function Home() {
 
           <div className="relative group overflow-hidden  shadow-lg">
             <img
-              src="https://s3-alpha-sig.figma.com/img/2ebd/a889/8e41213697f0a49bb058614cd8350935?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=C13PLBahSpRd4ITQULRJmrLs56BBp~VehfyrXeMpI76g0-sP2cIzZu-dDpqiIwSK7eyzdrOFc-9a6MnakSJML2zLefWFD90A9t4YVgYgWcYYX8R4CwcLqzTsjCPg7u8cdZdqZqeYpCaYsc2nGhwsCFy-0zQlrSkpyea4ZAnY2apxOgM0pg1FHFEFBSkLD~DUWmYgzk9XT1IL7w-IBklKHcynaQnjUaCacrHt3~W532vmTU1z31HxStKFv13GGWX1sD7VBtemorNui-pi~p81~~gi7zLmYSyMdrpuV4qBDf-Fy0zt3h9ABtSEsTqqTGdgKc4Ztxc4-vu3Z0X~9rNptA__"
+              src="https://images.pexels.com/photos/2537606/pexels-photo-2537606.jpeg?auto=compress&cs=tinysrgb&w=600"
               alt="Admissions"
               className="w-full h-[510px] object-cover object-top transition-transform transform group-hover:scale-105"
             />
