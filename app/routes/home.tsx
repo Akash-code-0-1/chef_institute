@@ -14,7 +14,7 @@ import News from '../components/News';
 
 export function meta({ }: Route.MetaArgs) {
   return [
-    { title: "Akash_Resturt" },
+    { title: "Chef Institute" },
     { name: "description", content: "Welcome to React Router!" },
   ];
 }
