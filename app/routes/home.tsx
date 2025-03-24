@@ -71,7 +71,11 @@ export default function Home() {
 
 
           <div className="">
-            <p className="mb-3 font-mulish ">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis tempora quas itaque impedit fuga delectus laboriosam dolores explicabo nostrum. Odio, consequuntur. Voluptatum, deserunt quo? Sed eius architecto magnam iste delectus!lorem Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut cupiditate tenetur iure magni vero itaque esse id dolores recusandae voluptatem obcaecati dicta accusantium voluptatum, porro ipsam. Sunt qui enim repellat.</p>
+            <p className="mb-3 font-mulish ">
+              Founded with a passion for culinary excellence, our institute began as a small kitchen where aspiring chefs honed their skills under the guidance of seasoned professionals. Over the years, our commitment to innovation and craftsmanship transformed us into a renowned culinary academy.
+              From perfecting classic techniques to embracing modern gastronomy, we have nurtured countless chefs who now lead kitchens worldwide. Our journey is driven by a love for flavors, a dedication to mastery, and an unwavering belief that great cuisine brings people together. Today, we stand as a beacon of culinary education, inspiring the next generation of chefs to create, innovate, and lead.
+            </p>
+
           </div>
 
           <div className="">
