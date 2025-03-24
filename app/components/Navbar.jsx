@@ -60,7 +60,6 @@ const Navbar = () => {
                             />
                         </div>
 
-                        {/* Middle Section - Navigation */}
                         <div className="middle_section hidden lg:flex">
                             <ul className="flex flex-row lg:gap-3 lg:text-[12px] xl:text-[19px] xl:gap-7 text-black">
                                 {[
@@ -75,10 +74,8 @@ const Navbar = () => {
                                     <li key={index}>
                                         <Link
                                             to={item.path}
-                                            className={({ isActive }) =>
-                                                `hover:text-transparent bg-clip-text bg-gradient-to-b from-[#993128] to-[#33100D] ${isActive ? "font-bold text-red-600" : ""
-                                                }`
-                                            }
+                                            className={`hover:text-transparent hover:bg-clip-text hover:bg-gradient-to-b from-[#993128] to-[#33100D] 
+                            ${location.pathname === item.path ? "font-bold text-red-600" : "text-black"}`}
                                         >
                                             {item.name}
                                         </Link>

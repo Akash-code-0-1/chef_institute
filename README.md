@@ -6,7 +6,19 @@ Good Chef Institute Website is a **frontend web application** built with **React
 
 ## 📸 Screenshots  
 
-![](./image.png)  
+![](https://github.com/Akash-code-0-1/chef_institute/blob/d0301182e803879626c6296ef4665907a595125d/1.PNG)
+![](https://github.com/Akash-code-0-1/chef_institute/blob/d0301182e803879626c6296ef4665907a595125d/2.PNG)
+![](https://github.com/Akash-code-0-1/chef_institute/blob/d0301182e803879626c6296ef4665907a595125d/3.PNG)
+![](https://github.com/Akash-code-0-1/chef_institute/blob/d0301182e803879626c6296ef4665907a595125d/4.PNG)
+![](https://github.com/Akash-code-0-1/chef_institute/blob/d0301182e803879626c6296ef4665907a595125d/5.PNG)
+![](https://github.com/Akash-code-0-1/chef_institute/blob/d0301182e803879626c6296ef4665907a595125d/6.PNG)
+![](https://github.com/Akash-code-0-1/chef_institute/blob/d0301182e803879626c6296ef4665907a595125d/7.PNG)
+![](https://github.com/Akash-code-0-1/chef_institute/blob/d0301182e803879626c6296ef4665907a595125d/8.PNG)
+![](https://github.com/Akash-code-0-1/chef_institute/blob/d0301182e803879626c6296ef4665907a595125d/9.PNG)
+![](https://github.com/Akash-code-0-1/chef_institute/blob/d0301182e803879626c6296ef4665907a595125d/10.PNG)
+
+
+  
 
 ---
 
@@ -84,7 +96,7 @@ npm run dev
 ```
 
 5️⃣ **Open in Browser**  
-Visit `http://localhost:3000/` to explore the web app.
+Visit `http://localhost:5173/` to explore the web app.
 
 ---
 
