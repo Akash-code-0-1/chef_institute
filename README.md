@@ -1,5 +1,7 @@
 # 🍽️ Good Chef Institute Website 🎨📊
 
+**Live Link:** [Good-chef-institute](https://good-chef-institute-website.vercel.app/)
+
 Good Chef Institute Website is a **frontend web application** built with **React.js, TypeScript, Vite, Tailwind CSS, and React Router**. It provides an elegant and user-friendly interface to explore the culinary institute, its programs, faculty, and more.  
 
 ---
